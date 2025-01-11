@@ -82,6 +82,42 @@ const quizArray = [
         question: "Algoritma dapat direpresentasikan sebagai…?",
         options: ["Pseudocode", "Sintaks", "Perulangan", "Pemrograman"],
         correct: "Pemrograman",
+    },
+    {
+        id: "11",
+        question: "Software yang digunakan untuk mentranslasi dan mengeksekusi bahasa pemrograman tingkat tinggi dalam satu baris pada satu waktu disebut…?",
+        options: ["Assembler", "Compiler", "Eksekutor", "Interpreter"],
+        correct: "Compiler",
+    },
+    {
+        id: "12",
+        question: "Pemberian nilai variable yang benar adalah....?",
+        options: ["_panjang", "nomor.telepon", "%nama guru", "alamat_siswa"],
+        correct: "alamat_siswa",
+    },
+    {
+        id: "13",
+        question: "Perintah algoritma perulangan yang memeriksa kondisi di awal sebelum melakukan pengulangan adalah …?",
+        options: ["for down to do","repeat until","if then","for to do"],
+        correct: "repeat until",
+    },
+    {
+        id: "14",
+        question: "Informasi yang telah disimpan sebaiknya ditelusuri kembali merupakan fungsi TIK yaitu….",
+        options: ["Storage", "Generating", "Transmission", "Retrival"],
+        correct: "Storage",
+    },
+    {
+        id: "15",
+        question: "Manfaat TIK di bidang perbankan berupa munculnya aplikasi ….",
+        options: ["e-bussiness", "toko online", "internet banking", "e-library"],
+        correct: "internet banking",
+    },
+    {
+        id: "16",
+        question: "Peran teknologi Informasi adalah….",
+        options: ["Pekerjaan dapat terselesaikan tepat waktu", "Memudahkan proses mengolah data", "Menambah pertemanan atau relasi", "Keamanan data lebih terjamin"],
+        correct: "Memudahkan proses mengolah data",
     }
 ];
 
