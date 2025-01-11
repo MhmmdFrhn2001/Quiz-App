@@ -136,7 +136,7 @@ const quizArray = [
         question: "Sebuah metode memecahkan masalah dengan melibatkan teknik yang digunakan software engineer disebut ….",
         options: ["algoritma", "kompiler", "Computational thinking", "programing"],
         correct: "Computational thinking",
-    }
+    },
 ];
 
 //Restart Quiz
