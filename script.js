@@ -77,6 +77,12 @@ const quizArray = [
         options: ["&&", "+", "/", "*"],
         correct: "&&",
     },
+    {
+        id: "10",
+        question: "Algoritma dapat direpresentasikan sebagai…?",
+        options: ["Pseudocode", "Sintaks", "Perulangan", "Pemrograman"],
+        correct: "Pemrograman",
+    }
 ];
 
 //Restart Quiz
