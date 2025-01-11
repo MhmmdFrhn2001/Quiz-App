@@ -118,6 +118,24 @@ const quizArray = [
         question: "Peran teknologi Informasi adalah….",
         options: ["Pekerjaan dapat terselesaikan tepat waktu", "Memudahkan proses mengolah data", "Menambah pertemanan atau relasi", "Keamanan data lebih terjamin"],
         correct: "Memudahkan proses mengolah data",
+    },
+    {
+        id: "17",
+        question: "Salah satu jenis kejahatan di dunia maya....",
+        options: ["carding", "privacy", "konsumtif", "cookie"],
+        correct: "carding",
+    },
+    {
+        id: "18",
+        question: "Menjelajah di dunia internet dikenal dengan....",
+        options: ["download", "browsing", "seeking", "upload"],
+        correct: "browsing",
+    },
+    {
+        id: "19",
+        question: "Sebuah metode memecahkan masalah dengan melibatkan teknik yang digunakan software engineer disebut ….",
+        options: ["algoritma", "kompiler", "Computational thinking", "programing"],
+        correct: "Computational thinking",
     }
 ];
 
