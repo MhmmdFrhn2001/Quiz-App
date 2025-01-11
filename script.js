@@ -133,10 +133,16 @@ const quizArray = [
     },
     {
         id: "19",
-        question: "Sebuah metode memecahkan masalah dengan melibatkan teknik yang digunakan software engineer disebut ….",
+        question: "Sebuah metode memecahkan masalah dengan melibatkan teknik yang digunakan software engineer disebut?",
         options: ["algoritma", "kompiler", "Computational thinking", "programing"],
         correct: "Computational thinking",
     },
+    {
+        id: "20",
+        question: "Berikut ini adalah contoh teknik yang digunakan dalam programing, kecuali?",
+        options: ["recursion", "looping", "iterative", "functional"],
+        correct: "iterative",
+    }
 ];
 
 //Restart Quiz
